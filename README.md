@@ -9,4 +9,5 @@ checks for any malicious code <br />
 <br />
 Required Packages:
 Pandas 1.4.3
+<br />
 scikit-learn 1.1.1

@@ -5,6 +5,9 @@ checks for any malicious code
 
 
 set up
+<br>
 make a folder "testdata"
-download the URL csv from here <<link>>
+<br>
+download the URL csv from here <<https://drive.google.com/file/d/18QthCgAj-ENJ1U7ky0f6HWtpXXFgp0eO/view>>
+<br>
 run requirements.txt

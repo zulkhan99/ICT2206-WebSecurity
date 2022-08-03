@@ -4,11 +4,8 @@ checks SSL certificate of the website (creation and expiry date)
 checks if the URL is malicious
 checks if domain is registered
 
+<br>
 
-set up
-<br>
-make a folder "testdata"
-<br>
-download the URL csv from here <<https://drive.google.com/file/d/18QthCgAj-ENJ1U7ky0f6HWtpXXFgp0eO/view>>
-<br>
-run requirements.txt
+1. download the code <br>
+2. root into the main folder <br>
+3. run pip -r requirements.txt to install all dependencies <br>

@@ -1,7 +1,8 @@
 # ICT2206-WebSecurity
-A browser extension that uses machine learning technique to alert users of web attacks
+A bcommand line tool that uses machine learning technique extract useful information about websites
 checks SSL certificate of the website (creation and expiry date)
-checks for any malicious code
+checks if the URL is malicious
+checks if domain is registered
 
 
 set up

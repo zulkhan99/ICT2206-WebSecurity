@@ -1,6 +1,6 @@
 # ICT2206-WebSecurity
 A bcommand line tool that uses machine learning technique extract useful information about websites
-checks SSL certificate of the website (creation and expiry date)
+checks SSL certificate of the website
 checks if the URL is malicious
 checks if domain is registered
 
